@@ -1,0 +1,8 @@
+Provider glyphs in provider-*.svg are copied from the installed CodexBar app's
+ProviderIcon assets. CodexBar is an MIT-licensed project by Peter Steinberger:
+https://github.com/steipete/CodexBar
+
+These glyphs identify the corresponding providers. Quota rings in rings/ are
+generated geometric SVG assets for this sidebar.
+
+The complete upstream MIT license is in CodexBar-LICENSE.txt.

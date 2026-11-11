@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="960" height="600" rx="12" fill="#111315"/>
+<path d="M0 0h168v600H0z" fill="#1b1e22"/>
+<path d="M168 0h792v42H168z" fill="#1b1e22"/>
+<g fill="#d7dde5" font-family="sans-serif"><text x="22" y="32" font-size="15" font-weight="bold">Herdr</text><text x="22" y="84" font-size="12">Spaces</text><text x="22" y="121" font-size="13">My project</text><text x="22" y="398" font-size="12">Agents</text><text x="22" y="435" font-size="13">Codex</text><text x="190" y="27" font-size="12">1</text><text x="850" y="27" font-size="12">codexbar</text></g>
+<rect x="180" y="54" width="454" height="504" rx="10" fill="#101214" stroke="#414b58"/>
+<g fill="#8793a3" font-family="monospace" font-size="12"><text x="198" y="80">Codex · ~/project</text><text x="198" y="124">› Working on your project</text><text x="198" y="149">  Tests passed.</text><text x="198" y="530">›</text></g>
+<rect x="646" y="54" width="300" height="504" rx="9" fill="#1b1e22"/>
+<g fill="#d7dde5" font-family="sans-serif"><text x="664" y="83" font-size="15" font-weight="bold">codexbar</text><text x="664" y="113" font-size="12" fill="#929caa">Priority     |     All Usage</text></g>
+<rect x="658" y="132" width="276" height="182" rx="10" fill="#111315" stroke="#343b45"/>
+<path d="M658 174h276" stroke="#343b45"/>
+<g font-family="sans-serif"><text x="672" y="158" fill="#d7dde5" font-size="14" font-weight="bold">Codex</text><text x="873" y="158" fill="#929caa" font-size="11">Pro Lite</text><text x="672" y="201" fill="#929caa" font-size="12">Weekly</text><text x="830" y="201" fill="#a7b4c6" font-size="14" font-weight="bold">68% left</text><text x="672" y="239" fill="#929caa" font-size="10">Resets Nov 14 · 2 days left</text><text x="672" y="271" fill="#929caa" font-size="12">Available resets</text><text x="902" y="271" fill="#d7dde5" font-size="12">2</text><text x="672" y="296" fill="#77818e" font-size="10">Updated just now</text></g>
+<rect x="672" y="214" width="248" height="6" rx="3" fill="#303742"/><rect x="672" y="214" width="171" height="6" rx="3" fill="#a7b4c6"/>
+<path d="M646 484h300" stroke="#343b45"/><rect x="660" y="497" width="90" height="28" rx="6" fill="none" stroke="#343b45"/><rect x="758" y="497" width="140" height="28" rx="6" fill="none" stroke="#343b45"/>
+<g font-family="sans-serif" fill="#929caa"><text x="680" y="515" font-size="11">Refresh</text><text x="774" y="515" font-size="11">Open CodexBar</text><text x="660" y="545" font-size="10">Next update in 5m</text></g>
+</svg>
